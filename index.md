@@ -10,7 +10,7 @@
       <p><b>家乡：广东省吴川市吴阳镇</b></p>
     </td>
     <td width="25%">
-      <img src="/IMG_20180330_122802.jpg" width="100%">  
+      <img src="/sakura.jpg" width="100%">  
     </td>
   </tr>
 </table>
